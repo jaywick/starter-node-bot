@@ -1,7 +1,7 @@
 {
-  "name": "node-slack-bot",
+  "name": "bossbot",
   "version": "1.0.0",
-  "description": "A sample Beep Boop Node.js Slackbot",
+  "description": "Humourous bot inspired by Dilbert-like bosses we've all worked with",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
